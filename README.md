@@ -1,6 +1,6 @@
 # KSRM CONNECT
 
-Welcome to KSRM CONNECT! This repository contains the source code for the KSRM CONNECT project.
+Welcome to KSRM CONNECT! This repository contains the source code for the KSRM CONNECT project in the master branch.
 
 ## Description
 
